@@ -1,4 +1,4 @@
-spray-sandbox
-=============
+sprayed-chat
+============
 
-Throwaway code while learning Spray.io
+Dead simple chat using Spray.io as backend.
